@@ -1,0 +1,21 @@
+_id: req_cc263dfc9fc549bcb351f35df4688d0a
+type: Request
+parentId: fld_bc0cf57ef34f457983d88d514e0633e1
+modified: 1653897916191
+created: 1653897908890
+url: "{{ _.url }}products-detail/1"
+name: Detalle
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653897908890
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

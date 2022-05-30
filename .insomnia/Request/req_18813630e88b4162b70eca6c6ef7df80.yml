@@ -1,0 +1,21 @@
+_id: req_18813630e88b4162b70eca6c6ef7df80
+type: Request
+parentId: fld_c227deedf9484dc8b0eb765fce9d5cb8
+modified: 1653897841959
+created: 1653897821041
+url: "{{ _.url }}client-get-orders?email=almendralesluifer@gmail.com"
+name: Listar ordenes del cliente
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653897821041
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

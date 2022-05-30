@@ -1,0 +1,21 @@
+_id: req_de8dcd4eeef04a89bfd79cc2878a3e5b
+type: Request
+parentId: fld_c441b0fc32414138a033c2f98e5d7196
+modified: 1653897964086
+created: 1653897944850
+url: "{{ _.url }}order-retry-payment/1212asas"
+name: Reintentar pago
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653897944850
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

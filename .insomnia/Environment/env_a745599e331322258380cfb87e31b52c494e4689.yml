@@ -1,0 +1,14 @@
+_id: env_a745599e331322258380cfb87e31b52c494e4689
+type: Environment
+parentId: wrk_4c9ca90270214fcc8522b19080e312f6
+modified: 1653727270387
+created: 1653722695887
+name: Base Environment
+data:
+  url: http://127.0.0.1:8000/api/
+dataPropertyOrder:
+  "&":
+    - url
+color: null
+isPrivate: false
+metaSortKey: 1653722695887

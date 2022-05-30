@@ -1,0 +1,21 @@
+_id: req_e7260a593104412089a4317789c21b90
+type: Request
+parentId: fld_c441b0fc32414138a033c2f98e5d7196
+modified: 1653893748683
+created: 1653893625961
+url: "{{ _.url }}order-list"
+name: "Listar "
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653893625961
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

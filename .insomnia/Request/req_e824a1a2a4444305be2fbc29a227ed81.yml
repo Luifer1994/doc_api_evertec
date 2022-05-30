@@ -1,0 +1,21 @@
+_id: req_e824a1a2a4444305be2fbc29a227ed81
+type: Request
+parentId: fld_bc0cf57ef34f457983d88d514e0633e1
+modified: 1653810515932
+created: 1653810391310
+url: "{{ _.url }}products-list?page=2&limit=5"
+name: Listar
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653810391310
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

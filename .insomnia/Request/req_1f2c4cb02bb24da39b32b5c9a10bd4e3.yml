@@ -1,0 +1,21 @@
+_id: req_1f2c4cb02bb24da39b32b5c9a10bd4e3
+type: Request
+parentId: fld_c441b0fc32414138a033c2f98e5d7196
+modified: 1653898165335
+created: 1653753034514
+url: "{{ _.url }}order-show/5c1e10d9-e599-4d55-ba8d-7d42fe9a77"
+name: Ver detalle de orden
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653753034514
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_dd150da855054d9ab516db8145d2bd01
+type: Request
+parentId: fld_c227deedf9484dc8b0eb765fce9d5cb8
+modified: 1653897886674
+created: 1653897880883
+url: "{{ _.url }}client-by-email"
+name: Filtrar por email
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653897880883
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

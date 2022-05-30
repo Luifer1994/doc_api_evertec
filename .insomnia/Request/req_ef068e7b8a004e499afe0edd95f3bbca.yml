@@ -1,0 +1,47 @@
+_id: req_ef068e7b8a004e499afe0edd95f3bbca
+type: Request
+parentId: fld_c441b0fc32414138a033c2f98e5d7196
+modified: 1653899372253
+created: 1653727242448
+url: "{{ _.url }}order-create"
+name: Crear order
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"client": {
+    		"id": null,
+    		"document_type_id": 2,
+    		"document_number": 1212,
+    		"name": "Prueba",
+    		"last_name": "Apellido",
+    		"email": "cliente@cliente.com",
+    		"phone": "32323"
+    	},
+    	"products": [
+    		{
+    			"id": 1,
+    			"quantity": 14
+    		},
+    		{
+    			"id": 10,
+    			"quantity": 14
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_23f8a3f85ee34e0cae5afa8bf291b3cf
+authentication: {}
+metaSortKey: -1653727242448
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
